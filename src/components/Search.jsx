@@ -27,7 +27,7 @@ const Search = () => {
         }}    
         />
         {input && (
-            <button onClick={clear}>
+            <button onClick={clear} className='m-1'>
             <XIcon className="h-4 w-4 fill-gray-500" />
         </button>
         )}

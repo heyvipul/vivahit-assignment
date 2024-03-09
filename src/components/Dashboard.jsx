@@ -1,5 +1,6 @@
 import { mockCompanyDetails } from '../constants/mock.js'
 import Card from './Card.jsx'
+import Details from './Details.jsx'
 import Header from './Header.jsx'
 
 
@@ -18,7 +19,8 @@ const Dashboard = () => {
             <Card>Overview</Card>
         </div>
         <div className='row-span-2 xl:row-span-3'>
-            <Card>Details</Card>
+            {/* <Card>Details</Card> */}
+            <Details details={mockCompanyDetails} />
         </div>
     </div>
   )
