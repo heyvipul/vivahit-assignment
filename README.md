@@ -15,13 +15,13 @@ Run the following command to download the dependencies: <br>
 
 dependencies: { <br>
     "@heroicons/react": "^1.0.5", <br>
-    "chart.js": "^4.4.2",
-    "heroicons": "^2.1.1",
-    "react": "^18.2.0",
-    "react-chartjs-2": "^5.2.0",
-    "react-dom": "^18.2.0",
-    "recharts": "^2.12.2"
-}
+    "chart.js": "^4.4.2",<br>
+    "heroicons": "^2.1.1",<br>
+    "react": "^18.2.0",<br>
+    "react-chartjs-2": "^5.2.0",<br>
+    "react-dom": "^18.2.0",<br>
+    "recharts": "^2.12.2"<br>
+}<br>
 
 ```
 npm install
