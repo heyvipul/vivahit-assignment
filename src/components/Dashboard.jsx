@@ -7,6 +7,7 @@ import Header from './Header.jsx'
 import Overview from './Overview.jsx'
 import { StockContext } from '../context/StockContext.jsx'
 import { fetchQuote, fetchStockDetails } from '../api/stock-api.js'
+import ChartNew from './ChartNew.jsx'
 
 
 const Dashboard = () => {
@@ -51,8 +52,8 @@ const Dashboard = () => {
                 <Header name={stockDetails.name} />
             </div>
             <div className='md:col-span-2 row-span-4'>
-                {/* <Card>Chart</Card> */}
-                <Chart />
+                {/* <Chart /> */}
+                <ChartNew/>
             </div>
             <div>
                 {/* <Card>Overview</Card> */}
