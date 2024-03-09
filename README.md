@@ -25,6 +25,13 @@ npm run dev
 
 Your application will be accessible at http://localhost:5173
 
+### screenshots 
+
+![image](https://github.com/heyvipul/vivahit-assignment/assets/131906819/59b59486-63e4-4d3e-b038-d3707b8db3d3)
+
+
+![image](https://github.com/heyvipul/vivahit-assignment/assets/131906819/a31a6a31-32f5-417c-8d74-2c6b722df9a9)
+
 
 # React + Vite
 
