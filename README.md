@@ -11,9 +11,10 @@ Clone the following repository in you code-editor
 https://github.com/heyvipul/vivahit-assignment
 ```
 
-Run the following command to download the dependencies:
-dependencies: {
-    "@heroicons/react": "^1.0.5",
+Run the following command to download the dependencies: <br>
+
+dependencies: { <br>
+    "@heroicons/react": "^1.0.5", <br>
     "chart.js": "^4.4.2",
     "heroicons": "^2.1.1",
     "react": "^18.2.0",
