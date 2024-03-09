@@ -2,6 +2,7 @@ import { mockCompanyDetails } from '../constants/mock.js'
 import Card from './Card.jsx'
 import Details from './Details.jsx'
 import Header from './Header.jsx'
+import Overview from './Overview.jsx'
 
 
 const Dashboard = () => {
@@ -16,7 +17,9 @@ const Dashboard = () => {
             <Card>Chart</Card>
         </div>
         <div>
-            <Card>Overview</Card>
+            {/* <Card>Overview</Card> */}
+            <Overview symbol={mockCompanyDetails.ticker} 
+            price={300} change={30} changePercent={10.0} currency={"USD"}/>
         </div>
         <div className='row-span-2 xl:row-span-3'>
             {/* <Card>Details</Card> */}
