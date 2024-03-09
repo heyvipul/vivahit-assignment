@@ -11,7 +11,16 @@ Clone the following repository in you code-editor
 https://github.com/heyvipul/vivahit-assignment
 ```
 
-Run the following command to download the node_modules:
+Run the following command to download the dependencies:
+dependencies: {
+    "@heroicons/react": "^1.0.5",
+    "chart.js": "^4.4.2",
+    "heroicons": "^2.1.1",
+    "react": "^18.2.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18.2.0",
+    "recharts": "^2.12.2"
+}
 
 ```
 npm install
