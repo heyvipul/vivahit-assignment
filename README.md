@@ -1,7 +1,7 @@
 ## Overview
 Introducing a dynamic real-time dashboard built with React.js and powered by Chart.js, designed to effortlessly track and visualize live stock prices or cryptocurrency rates. Stay informed and make informed decisions with our intuitive interface
 
-#### deployed link : https://65ec4fbbd697059688669e3e--illustrious-manatee-a66227.netlify.app/
+#### deployed link : https://vivahit-assignment-green.vercel.app/
 
 ### Quick Start
 
